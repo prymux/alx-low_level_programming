@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * create_array - array for prints a string
  * @size: number elements array
@@ -34,5 +34,4 @@ position++;
 }
 
 return (buffer);
-}
 }
