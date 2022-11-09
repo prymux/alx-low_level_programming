@@ -16,7 +16,6 @@ if (width <= 0 || height <= 0)
 {
 return (NULL);
 }
-}
 
 grid = malloc(sizeof(int *) * height); /*malloc*/
 
